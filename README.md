@@ -23,7 +23,7 @@
 | Resource | Description | Link |
 | :--- | :--- | :--- |
 | 🌐 **Live Web Dashboard** | Restaurant Owner Web Management Portal | [**Open Restaurant Web App**](https://khaana-aaba5.web.app/login) |
-| 📦 **Download APK** | Latest Android Application Package (`.apk`) | [**Download Latest APK Release**](https://github.com/Pritam2806/BiteBuddy_App_Kotlin/apk) |
+| 📦 **Download APK** | Latest Android Application Package (`.apk`) | [**Download Latest APK Release from /apk**](https://github.com/Pritam2806/BiteBuddy_App_Kotlin) |
 | 📱 **Mobile App Repository** | Kotlin + Jetpack Compose Source Code | [**GitHub Repository**](https://github.com/Pritam2806/BiteBuddy_App_Kotlin) |
 | 💻 **Web App Repository** | React + TypeScript Web Dashboard Source Code | [**Web Dashboard Repository**](https://github.com/Priyansh176/BiteBuddy) |
 
