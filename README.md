@@ -244,7 +244,7 @@ cd BiteBuddy_App_Kotlin
 
 ##  APK Installation
 
-1. Download the latest `app-debug.apk` from the [GitHub Releases Page](https://github.com/Pritam2806/BiteBuddy_App_Kotlin/releases/latest) or copy it from `app/build/outputs/apk/debug/app-debug.apk`.
+1. Download the APK from BiteBuddy_App_Kotlin/apk/apk-debug.apk
 2. Transfer the `.apk` file to your Android smartphone.
 3. Tap the file to install (enable *"Install from Unknown Sources"* if prompted).
 4. Launch **BiteBuddy** and start ordering!
