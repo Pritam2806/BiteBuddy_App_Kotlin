@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1005396824213",
+    "project_id": "khaana-aaba5",
+    "storage_bucket": "khaana-aaba5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005396824213:web:cabf6b6cebd209bca84b9c",
+        "android_client_info": {
+          "package_name": "com.example.bitebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005396824213-d0u67t95qfkuncio36htuo2ejpn4b5vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJUJbb7KF14i1XnJWpTnaXt8X5YiNacg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
