@@ -23,7 +23,7 @@
 | Resource | Description | Link |
 | :--- | :--- | :--- |
 | 🌐 **Live Web Dashboard** | Restaurant Owner Web Management Portal | [**Open Restaurant Web App**](https://khaana-aaba5.web.app/login) |
-| 📦 **Download APK** | Latest Android Application Package (`.apk`) | [**Download Latest APK Release from /apk**](https://github.com/Pritam2806/BiteBuddy_App_Kotlin) |
+| 📦 **Download APK** | Latest Android Application Package | [**Download Latest APK**](#apk-installation) |
 | 📱 **Mobile App Repository** | Kotlin + Jetpack Compose Source Code | [**GitHub Repository**](https://github.com/Pritam2806/BiteBuddy_App_Kotlin) |
 | 💻 **Web App Repository** | React + TypeScript Web Dashboard Source Code | [**Web Dashboard Repository**](https://github.com/Priyansh176/BiteBuddy) |
 
@@ -33,14 +33,14 @@
 
 **BiteBuddy** is an end-to-end food ordering platform designed for high responsiveness, real-time status updates, and a modern aesthetic.
 
-1. **Android Customer Mobile App** *(Kotlin + Jetpack Compose + Coroutines + Flow)*:
+1. **Android Customer Mobile App (Made by me)** *(Kotlin + Jetpack Compose + Coroutines + Flow)*:
    - Real-time restaurant discovery with open/closed status indicators.
    - Dynamic menu browsing with dual image rendering (Base64 gallery uploads and remote URLs).
    - Single-restaurant cart conflict protection.
    - Cash on Delivery (COD) checkout with flexible delivery address management.
    - Real-time 3-step live order tracking with cancellation & delivery confirmation dialogs.
    - User profile customization with gallery avatar upload and local image compression.
-2. **Restaurant Web Dashboard** *(React + TypeScript + Tailwind CSS)*:
+2. **Restaurant Web Dashboard (Made by my team-mate)** *(React + TypeScript + Tailwind CSS)*:
    - Restaurant registration, operating status toggle, menu item creation with image uploads.
    - Real-time incoming order management (Accept, Dispatch, Complete, Cancel).
 3. **Shared Firebase Backend**:
@@ -116,7 +116,7 @@
 
 ### 🌟 Customer Experience
 - 🌙 **Midnight Charcoal Dark Theme:** Eye-pleasing `#12161A` background accented with `#FFBA00` golden yellow tones and glassmorphic outlined buttons.
-- 🏪 **Real-Time Restaurant Discovery:** Browse active restaurants with opening hours, live ratings, delivery estimates, and open/closed badges.
+- 🏪 **Real-Time Restaurant Discovery:** Browse active restaurants with opening hours, delivery tracking, and open/closed badges.
 - 🖼️ **Universal Image Support:** Seamlessly decodes Base64 data strings (uploaded directly from device gallery on web/mobile) as well as remote HTTPS URLs via Coil.
 - 🛒 **Single-Restaurant Cart Enforcement:** Automatically detects and prompts users with a confirmation dialog before replacing cart items from a different restaurant.
 - ⚡ **Auto-Moving Promo Carousel:** Dynamic, responsive top promotion cards that auto-advance smoothly without text wrapping.
@@ -255,7 +255,8 @@ cd BiteBuddy_App_Kotlin
 
 - **Android Mobile Developer:** [PritamSingh](https://github.com/Pritam2806)
   - Android Customer Application (Kotlin + Jetpack Compose)
-- **Fullstack Web Developer:** [Priyansh](https://github.com/Priyansh176/BiteBuddy)
+- **Fullstack Web Developer:** [Priyansh](https://github.com/Priyansh176)
+  - Restaurant Web Dashboard (React + TypeScript + Tailwind CSS)
 
 ---
 
